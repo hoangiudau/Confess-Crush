@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "gửi bạn nek",
+    introTitle: 'bạn gì xinh gái ơi',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    btnIntro: '^^típ nek^^',
+    title: 'Trái đất hown tỉ ngừi nhưng tại sao cậu lại lọt vào tầm mất của tớ v :> 🥰',
+    desc: 'khum trả lời mà thoát ra là thik đóa nha ',
+    btnYes: 'Tại thik hoi <33',
+    btnNo: 'Khum cóa đâu :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại thik lọt vào mắt mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    reply: '....',
+    mess: 'tớ bít mà 🥰',
+    messDesc: 'quay lại ib mik và nêu cảm nhận i.',
+    btnAccept: 'Okii <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100070068960266' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
